@@ -11220,6 +11220,84 @@
     },
     {
         "name": {
+            "common": "England",
+            "official": "England",
+            "native": {
+                "eng": { 
+                    "official": "England",
+                    "common": "England"
+                }
+            }
+        },
+        "tld": ["co.uk"],
+        "cca2": "GB",
+        "ccn3": "826",
+        "cca3": "GBR",
+        "cioc": "",
+        "independent": false,
+        "status": "officially-assigned",
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": ["4"]
+        },
+        "capital": ["London"],
+        "altSpellings": [],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "demonym": "English",
+        "landlocked": false,
+        "borders": ["SCT", "WLS"]
+    },
+    {
+        "name": {
+            "common": "Scotland",
+            "official": "Scotland", 
+            "native": { 
+                "eng": {
+                    "official": "Scotland",
+                    "common": "Scotland"
+                }
+            }
+        },
+        "tld": ["co.uk"], 
+        "cca2": "GB", 
+        "ccn3": "826", 
+        "cca3": "GBR", 
+        "cioc": "", 
+        "independent": false,
+        "status": "officially-assigned",
+        "currencies": { 
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": ["4"]
+        },
+        "capital": ["Edinburgh"],
+        "altSpellings": [],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "demonym": "Scottish",
+        "landlocked": false,
+        "borders": ["ENG"]
+    },
+    {
+        "name": {
             "common": "Georgia",
             "official": "Georgia",
             "native": {
